@@ -4,6 +4,7 @@
   "description": "Description will go into a meta tag in <head />",
   "blocks": [
     {
+      "title": "UX Cookbook",
       "document": "docs/intro.mdx",
       "documentLabel": "Docusaurus Tutorial - 5min ⏱️",
       "_template": "hero"
